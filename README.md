@@ -1,4 +1,4 @@
-ComfyUI
+[workflow.json](https://github.com/liebespaar93/ComfyUI/files/13513344/workflow.json)ComfyUI
 =======
 The most powerful and modular stable diffusion GUI and backend.
 -----------
@@ -212,6 +212,25 @@ The default installation includes a fast latent preview method that's low-resolu
 
 I wanted to learn how Stable Diffusion worked in detail. I also wanted something clean and powerful that would let me experiment with SD without restrictions.
 
-### Who is this for?
 
-This is for anyone that wants to make complex workflows with SD or that wants to learn more how SD works. The interface follows closely how SD works and the code should be much more simple to understand than other SD UIs.
+
+
+## 추가 사항
+
+youtube soy_lab 님의 영상 참고
+
+ https://www.youtube.com/watch?v=pHGyQSr5Yj4&t=216s
+
+[[soy.lab] 2023.11.22 Comfy UI Painter Node_v002.pdf](https://github.com/liebespaar93/ComfyUI/files/13513345/soy.lab.2023.11.22.Comfy.UI.Painter.Node_v002.pdf)  
+
+[workflow.json](https://github.com/liebespaar93/ComfyUI/files/13513362/workflow.json)
+
+
+## 모델 다운로드 사이트 
+https://civitai.com/
+
+폴더 경로 : COMFYUI/models/loras/ 에 추가
+
+추가 모델 참고 사이트
+
+https://www.internetmap.kr/entry/Stable-Diffusion-Everything-about-models
