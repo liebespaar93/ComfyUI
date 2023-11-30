@@ -225,6 +225,8 @@ youtube soy_lab 님의 영상 참고
 
 [workflow.json](https://github.com/liebespaar93/ComfyUI/files/13513362/workflow.json)
 
+## 드로우 다운 사이트  
+https://huggingface.co/stabilityai/sdxl-turbo
 
 ## 모델 다운로드 사이트 
 https://civitai.com/
